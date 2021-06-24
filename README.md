@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CostaKondakji
-- 👀 I’m interested in Web Development and Gaming.
+- 👀 I’m interested in Web and Software Development.
 - 📫 
 <!---
 CostaKondakji/CostaKondakji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
